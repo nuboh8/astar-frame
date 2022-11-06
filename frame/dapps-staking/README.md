@@ -3,7 +3,7 @@ This document describes the interface for the pallet-dapps-staking.
 
 Table of Contents:
 1. [Terminology](#Terminology)
-2. [Referent implementatio](#Referent)
+2. [Referent implementation](#Referent)
 3. [FAQ](#FAQ)
 
 ## Terminology
